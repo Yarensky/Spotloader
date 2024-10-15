@@ -14,6 +14,7 @@ Enhanced Spotify downloader script
   Create app (app name/description/redirectURIs are irrevelant)
 
   Paste ClientID in line 55 in .py code
+
   Paste ClientSecret in line 56 in .py code
    
 - Download ffmpeg from https://www.gyan.dev/ffmpeg/builds/
