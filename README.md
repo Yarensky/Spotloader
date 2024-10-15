@@ -15,7 +15,7 @@ Enhanced Spotify downloader script
    
 - Download ffmpeg from https://www.gyan.dev/ffmpeg/builds/
   
-  Extract and add it's bin folder path to environmental variables
+  Extract all files to any folder (for example C:\FFMPEG) and add it's bin folder (C:\ffmpeg\bin) to both PATH variables in environmental variables settings.
   
   Restart your computer after adding the variables
 
