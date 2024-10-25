@@ -5,7 +5,7 @@ Enhanced Spotify downloader script
 
 - Open shell as administrator and type:  
    ```
-   pip install spotipy youtubesearchpython yt-dlp
+   pip install spotipy youtube-search-python yt-dlp
    
 
 - Get your ClientID and ClientSecret by logging into developer.spotify.com
