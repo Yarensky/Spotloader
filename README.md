@@ -29,8 +29,8 @@ Enhanced Spotify downloader script
   Log in into youtube, click on add-in, Export As.. and save .txt file as ytcookies.txt (this filename has been set in code)
 
 
-2. Now when you're all set. Create a folder and paste all three files: spotify_downloader.py, run_downloader.bat and ytcookies.txt into it.
+2. Now when you're all set. Create a folder and paste all three files: spotify_downloader.py, run_downloader.bat and ytcookies.txt into it. (Or just unzip the main if it does not bother you)
 
 3. Run .bat file and wait till it starts.
-4. Paste your spotify link (REMEMBER: playlist cannot have any emoji or other similar symbols in name)
+4. Paste your spotify link (REMEMBER: playlist cannot have any emoji or other similar symbols in name and needs to be PUBLIC)
 5. Paste directory path where you want to save the mp3's 
