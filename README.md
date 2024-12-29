@@ -22,7 +22,7 @@ Enhanced Spotify downloader script
   
   Restart your computer after adding the variables
 
-- Install Get cookies.txt locally (https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
+- Install Get cookies.txt locally (https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) - Available on Firefox too
   
   This prevents script errors if some tracks has age restrictions
   
